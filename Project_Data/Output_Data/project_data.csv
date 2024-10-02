@@ -1,52 +1,46 @@
-Name,Season,Category,Max Winds (kt),Adjusted Costs,City,County,State
-Alicia,1983,3,100,$9.4B,hitchcock,Galveston County,Texas
-Juan,1985,1,75,$4.3B,patterson,St. Mary Parish,Louisiana
-Elena,1985,3,100,$3.8B,long beach,Harrison County,Mississippi
-Hugo,1989,4,120,$22.7B,mount pleasant,Charleston County,South Carolina
-Bob,1991,2,90,$3.5B,charlestown,South County,Rhode Island
-Andrew,1992,5,145,$60.2B,lakes by the bay,Miami-Dade County,Florida
-Andrew,1992,5,100,$60.2B,franklin,St. Mary Parish,Louisiana
-Opal,1995,3,100,$9.6B,gulf breeze,Escambia County,Florida
-Fran,1996,3,100,$10.0B,long beach,Brunswick County,North Carolina
-Georges,1998,2,90,$11.5B,key west,Monroe County,Florida
-Georges,1998,2,90,$11.5B,biloxi,Harrison County,Mississippi
-Floyd,1999,2,90,$12.1B,long beach,Brunswick County,North Carolina
-Isabel,2003,2,90,$9.3B,morehead city,Carteret County,North Carolina
-Ivan,2004,3,105,$34.0B,gulf shores,Baldwin County,Alabama
-Charley,2004,4,130,$26.6B,sanibel,Lee County,Florida
-Charley,2004,4,125,$26.6B,punta gorda isles,Charlotte County,Florida
-Charley,2004,4,70,$26.6B,georgetown,Charleston County,South Carolina
-Charley,2004,4,65,$26.6B,north myrtle beach,Horry County,South Carolina
-Frances,2004,2,90,$16.3B,stuart,Martin County,Florida
-Jeanne,2004,3,105,$12.4B,stuart,Martin County,Florida
-Katrina,2005,3,70,$200.0B,hollywood,Broward County,Florida
-Katrina,2005,3,110,$200.0B,belle chasse,Plaquemines Parish,Louisiana
-Katrina,2005,3,105,$200.0B,slidell,St. Tammany Parish,Louisiana
-Wilma,2005,3,105,$30.0B,marco island,Collier County,Florida
-Rita,2005,3,100,$29.2B,port arthur,Cameron Parish,Louisiana
-Dennis,2005,3,105,$4.0B,gulf breeze,Santa Rosa County,Florida
-Ike,2008,2,95,$43.2B,galveston,Galveston County,Texas
-Gustav,2008,2,90,$8.6B,houma,Terrebonne Parish,Louisiana
-Irene,2011,1,75,$18.8B,morehead city,Carteret County,North Carolina
-Sandy,2012,1,65,$88.5B,atlantic city,none,none
-Isaac,2012,1,70,$3.8B,galliano,Plaquemines Parish,Louisiana
-Isaac,2012,1,70,$3.8B,galliano,Lafourche Parish,Louisiana
-Matthew,2016,1,85,$13.0B,mount pleasant,Charleston County,South Carolina
-Harvey,2017,4,115,$160.0B,rockport,Aransas County,Texas
-Harvey,2017,4,105,$160.0B,rockport,Refugio County,Texas
-Irma,2017,4,115,$64.0B,key west,Monroe County,Florida
-Irma,2017,4,100,$64.0B,marco island,Collier County,Florida
-Michael,2018,5,140,$31.0B,callaway,Bay County,Florida
-Florence,2018,1,80,$30.0B,masonboro,New Hanover County,North Carolina
-Laura,2020,4,130,$28.1B,prien,Cameron Parish,Louisiana
-Sally,2020,2,95,$8.8B,gulf shores,Baldwin County,Alabama
-Isaias,2020,1,80,$5.8B,little river,Brunswick County,North Carolina
-Zeta,2020,2,100,$5.3B,galliano,Terrebonne Parish,Louisiana
-Delta,2020,2,85,$3.5B,prien,Cameron Parish,Louisiana
-Ida,2021,4,130,$84.6B,galliano,Lafourche Parish,Louisiana
-Ian,2022,4,130,$118.5B,rotonda west,Lee County,Florida
-Ian,2022,4,110,$118.5B,key west,Monroe County,Florida
-Ian,2022,4,130,$118.5B,rotonda west,Lee County,Florida
-Ian,2022,4,125,$118.5B,punta gorda,Charlotte County,Florida
-Ian,2022,4,70,$118.5B,georgetown,Georgetown County,South Carolina
-Idalia,2023,3,100,$3.6B,perry,Taylor County,Florida
+Name,Year,Category,Adjusted Costs,#,Date,Time,Latitude,Lat,Longitude,Long,Max Winds (kt),SS HWS,RMW nm,Central Prssure (mb),OCI (mb),Size (nm),States Affected,County,State,City,FIPS code,Annual Change (%),HPI,HPI with 1990 base,HPI with 2000 base
+Alicia,1983,3,$9.4B,3,8/18/83,0700Z,29.1,29.1N,-95.1,95.1W,100,3,10,962,----,---,CTX3,Galveston,TX,hitchcock,48167,2.17,164.63,105.76,77.94
+Elena,1985,3,$3.8B,5,9/2/85,1300Z,30.4,30.4N,-89.2,89.2W,100,3,10,959,----,---,"AL3,MS3,AFL3",Harrison,MS,long beach,28047,7.97,191.15,108.00,66.85
+Hugo,1989,4,$22.7B,11,9/22/89,0400Z,32.8,32.8N,-79.8,79.8W,120,4,20,934,----,---,"SC4,INC1",Charleston,SC,mount pleasant,45019,4.13,274.79,96.15,56.85
+Andrew,1992,5,$60.2B,4,8/24/92,0905Z,25.5,25.5N,-80.3,80.3W,145,5,10,922,----,---,"CFL5,BFL4",Miami-Dade,FL,lakes by the bay,12086,2.86,246.02,105.01,71.68
+Opal,1995,3,$9.6B,17,10/4/95,2200Z,30.3,30.3N,-87.1,87.1W,100,3,50,942,----,---,"AFL3,IAL1",Escambia,FL,gulf breeze,12033,4.78,213.16,116.16,82.71
+Fran,1996,3,$10.0B,6,9/6/96,0030Z,33.9,33.9N,-78.0,78.0W,100,3,40,954,----,---,NC3,Brunswick,NC,long beach,37019,5.59,203.54,134.80,74.68
+Georges,1998,2,$11.5B,7,9/25/98,1530Z,24.5,24.5N,-81.8,81.8W,90,2,25,981,----,---,BFL2,Monroe,FL,key west,12087,7.37,313.55,141.55,82.22
+Georges,1998,2,$11.5B,7,9/28/98,1130Z,30.4,30.4N,-88.9,88.9W,90,2,80,964,----,---,MS2,Harrison,MS,biloxi,28047,5.31,256.11,144.71,89.57
+Floyd,1999,2,$12.1B,8,9/16/99,0630Z,33.8,33.8N,-78.0,78.0W,90,2,35,956,----,---,NC2,Brunswick,NC,long beach,37019,6.14,252.09,166.96,92.49
+Isabel,2003,2,$9.3B,13,9/18/03,1700Z,34.9,34.9N,-76.2,76.2W,90,2,40,957,----,---,NC2,Carteret,NC,morehead city,37031,4.73,214.98,181.72,113.53
+Ivan,2004,3,$34.0B,9,9/16/04,0650Z,30.2,30.2N,-87.9,87.9W,105,3,25,946,----,---,"AL3,AFL3",Baldwin,AL,gulf shores,1003,4.95,276.50,191.12,115.23
+Charley,2004,4,$26.6B,3,8/13/04,1945Z,26.6,26.6N,-82.2,82.2W,130,4,5,941,----,---,BFL4,Lee,FL,sanibel,12071,16.73,410.13,200.54,158.02
+Charley,2004,4,$26.6B,3,8/13/04,2045Z,26.9,26.9N,-82.1,82.1W,125,4,5,942,----,---,"BFL4,CFL1,DFL1",Charlotte,FL,punta gorda isles,12015,19.14,340.87,195.14,159.42
+Charley,2004,4,$26.6B,3,8/14/04,1400Z,33.0,33.0N,-79.4,79.4W,70,1,20,992,----,---,SC1,Charleston,SC,georgetown,45019,9.61,609.35,213.21,126.06
+Charley,2004,4,$26.6B,3,8/14/04,1600Z,33.8,33.8N,-78.7,78.7W,65,1,20,997,----,---,SC1,Horry,SC,north myrtle beach,45051,6.99,343.53,170.05,119.11
+Frances,2004,2,$16.3B,6,9/5/04,0430Z,27.2,27.2N,-80.2,80.2W,90,2,30,960,----,---,"CFL2,BFL1",Martin,FL,stuart,12085,21.66,464.03,205.58,167.39
+Jeanne,2004,3,$12.4B,11,9/26/04,0400Z,27.2,27.2N,-80.2,80.2W,105,3,45,950,----,---,"CFL3,BFL1,AFL1",Martin,FL,stuart,12085,21.66,464.03,205.58,167.39
+Katrina,2005,3,$200.0B,12,8/25/05,2230Z,26.0,26.0N,-80.1,80.1W,70,1,15,984,----,---,"CFL1,BFL1",Broward,FL,hollywood,12011,29.31,509.36,287.70,217.10
+Katrina,2005,3,$200.0B,12,8/29/05,1110Z,29.3,29.3N,-89.6,89.6W,110,3,20,920,----,---,LA3,Plaquemines,LA,belle chasse,22075,7.50,186.06,214.78,130.98
+Wilma,2005,3,$30.0B,25,10/24/05,1030Z,25.9,25.9N,-81.7,81.7W,105,3,25,950,----,---,"BFL3,CFL2",Collier,FL,marco island,12021,37.10,900.24,321.21,217.42
+Rita,2005,3,$29.2B,18,9/24/05,0740Z,29.7,29.7N,-93.7,93.7W,100,3,20,937,----,---,"LA3,CTX2",Cameron,LA,port arthur,22023,0.00,123.67,.,118.97
+Dennis,2005,3,$4.0B,4,7/10/05,1930Z,30.4,30.4N,-87.1,87.1W,105,3,5,946,----,---,"AFL3,IAL1",Santa Rosa,FL,gulf breeze,12113,31.58,401.69,245.72,167.30
+Ike,2008,2,$43.2B,9,9/13/08,0700Z,29.3,29.3N,-94.7,94.7W,95,2,30,950,----,---,"CTX2,LA1",Galveston,TX,galveston,48167,-0.81,302.61,194.40,143.26
+Gustav,2008,2,$8.6B,7,9/1/08,1500Z,29.2,29.2N,-90.7,90.7W,90,2,25,954,----,---,LA2,Terrebonne,LA,houma,22109,4.42,325.59,253.19,155.14
+Irene,2011,1,$18.8B,9,8/27/11,1200Z,34.7,34.7N,-76.6,76.6W,75,1,45,952,----,---,NC1,Carteret,NC,morehead city,37031,-5.33,296.90,250.97,156.79
+Isaac,2012,1,$3.8B,9,8/29/12,0000Z,28.9,28.9N,-89.4,89.4W,70,1,40,967,----,---,LA1,Plaquemines,LA,galliano,22075,2.21,201.05,232.09,141.53
+Isaac,2012,1,$3.8B,9,8/29/12,0800Z,29.2,29.2N,-90.2,90.2W,70,1,40,966,----,---,LA1,Lafourche,LA,galliano,22057,-0.28,245.98,243.82,154.85
+Matthew,2016,1,$13.0B,14,10/8/16,1500Z,33.0,33.0N,-79.5,79.5W,85,2,---,963,----,---,"DFL2, GA1, SC1, NC1",Charleston,SC,mount pleasant,45019,8.61,894.83,313.10,185.13
+Harvey,2017,4,$160.0B,9,8/26/17,0300Z,28.0,28.0N,-96.9,96.9W,115,4,10,937,----,---,BTX4,Aransas,TX,rockport,48007,0.94,332.22,.,214.20
+Irma,2017,4,$64.0B,11,9/10/17,1300Z,24.7,24.7N,-81.5,81.5W,115,4,10,931,----,---,"BFL4,CFL1",Monroe,FL,key west,12087,4.12,838.55,378.55,219.89
+Irma,2017,4,$64.0B,11,9/10/17,1930Z,25.9,25.9N,-81.7,81.7W,100,3,15,936,----,---,"BFL4,CFL1",Collier,FL,marco island,12021,4.34,834.56,297.78,201.56
+Michael,2018,5,$31.0B,14,10/10/18,1730Z,30.0,30.0N,-85.5,85.5W,140,5,10,919,----,---,"AFL5,I-GA2,AL1",Bay,FL,callaway,12005,10.55,600.88,270.97,181.83
+Florence,2018,1,$30.0B,6,9/14/18,1115Z,34.2,34.2N,-77.8,77.8W,80,1,25,956,----,---,NC1,New Hanover,NC,masonboro,37129,6.04,609.12,258.03,164.93
+Laura,2020,4,$28.1B,13,8/27/20,0600Z,29.8,29.8N,-93.3,93.3W,130,4,15,939,----,---,"LA4,CTX1",Cameron,LA,prien,22023,2.27,204.07,.,196.32
+Sally,2020,2,$8.8B,19,9/16/20,0945Z,30.3,30.3N,-87.7,87.7W,95,2,15,965,----,---,"AFL2,AL2",Baldwin,AL,gulf shores,1003,4.25,418.09,288.99,174.23
+Isaias,2020,1,$5.8B,9,8/4/20,0310Z,33.9,33.9N,-78.5,78.5W,80,1,25,986,----,---,"SC1,NC1",Brunswick,NC,little river,37019,5.89,510.06,337.80,187.14
+Zeta,2020,2,$5.3B,28,10/28/20,2100Z,29.2,29.2N,-90.6,90.6W,100,3,20,970,----,---,"LA3, MS2, I-AL1",Terrebonne,LA,galliano,22109,2.09,362.75,282.09,172.84
+Delta,2020,2,$3.5B,26,10/9/20,2300Z,29.8,29.8N,-93.1,93.1W,85,2,15,970,----,---,LA2,Cameron,LA,prien,22023,2.27,204.07,.,196.32
+Ida,2021,4,$84.6B,9,8/29/21,1655Z,29.1,29.1N,-90.2,90.2W,130,4,10,931,----,---,LA4,Lafourche,LA,galliano,22057,3.19,284.89,282.39,179.35
+Ian,2022,4,$118.5B,9,9/28/22,1905Z,26.7,26.7N,-82.2,82.2W,130,4,20,941,----,---,"BFL4,NC1",Lee,FL,rotonda west,12071,29.92,861.71,421.34,332.00
+Ian,2022,4,$118.5B,9,9/28/22,0200Z,24.6,24.6N,-82.9,82.9W,110,3,20,952,----,---,BFL3,Monroe,FL,key west,12087,24.84,1389.38,627.21,364.33
+Ian,2022,4,$118.5B,9,9/28/22,1905Z,26.7,26.7N,-82.2,82.2W,130,4,20,941,----,---,BFL4,Lee,FL,rotonda west,12071,29.92,861.71,421.34,332.00
+Ian,2022,4,$118.5B,9,9/28/22,2035Z,26.8,26.8N,-82.0,82.0W,125,4,20,945,----,---,"BFL4,ICFL1,DFL1",Charlotte,FL,punta gorda,12015,30.83,701.21,401.42,327.95
+Ian,2022,4,$118.5B,9,9/30/22,1805Z,33.3,33.3N,-79.2,79.2W,70,1,40,978,----,---,SC1,Georgetown,SC,georgetown,45043,19.17,364.57,327.56,212.96
+Idalia,2023,3,$3.6B,9,8/30/23,1145Z,29.9,29.9N,-83.6,83.6W,100,3,10,950,----,---,"AFL3, IGA1",Taylor,FL,perry,12123,6.01,311.82,271.86,252.39
