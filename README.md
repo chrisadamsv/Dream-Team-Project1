@@ -34,18 +34,19 @@
 
 ### Resources
 
-Hurricanes by costliness
-https://www.ncei.noaa.gov/access/billions/dcmi.pdf
+- Hurricanes by costliness:
+    https://www.ncei.noaa.gov/access/billions/dcmi.pdf
 
-List of US Hurricane Landfalls
-https://www.aoml.noaa.gov/hrd/hurdat/UShurrs_detailed.html
+- List of US hurricane landfalls:
+    https://www.aoml.noaa.gov/hrd/hurdat/UShurrs_detailed.html
 
-FHFA Housing Price Index Data
-https://www.fhfa.gov/data/hpi/datasets
+- FHFA Housing Price Index data:
+    https://www.fhfa.gov/data/hpi/datasets
 
-Bureau of Economic Analysis 
-    Chart for per capita income for every County 1980-2023
-    'https://apps.bea.gov/api/data?&UserID={KEY}&method=GetData&datasetname=Regional&TableName=CAINC1&LineCode=1&Year=ALL&GeoFips=COUNTY&ResultFormat=json'
+- Bureau of Economic Analysis: 
+   
+   - Chart for per capita income for every County 1980-2023:
+     https://apps.bea.gov/api/data?&UserID={KEY}&method=GetData&datasetname=Regional&TableName=CAINC1&LineCode=1&Year=ALL&GeoFips=COUNTY&ResultFormat=json
 
-    Chart for total jobs for every county 1980-2023
-    'https://apps.bea.gov/api/data?&UserID={KEY}&method=GetData&datasetname=Regional&TableName=CAINC30&LineCode=240&Year=ALL&GeoFips=COUNTY&ResultFormat=json'
+   - Chart for total jobs for every county 1980-2023:
+     https://apps.bea.gov/api/data?&UserID={KEY}&method=GetData&datasetname=Regional&TableName=CAINC30&LineCode=240&Year=ALL&GeoFips=COUNTY&ResultFormat=json
