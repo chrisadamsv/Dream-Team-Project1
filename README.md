@@ -6,31 +6,28 @@
  
  ### Data Analysis
 
-![landfall_map](https://github.com/user-attachments/assets/e61a200b-f8f6-462c-818a-7fadb7256098)
+![landfall_map](https://github.com/user-attachments/assets/f3e9d744-3307-42cd-98dc-34a94de277ec)
 
 
-![state_pie](https://github.com/user-attachments/assets/0e3f80e2-a109-47c2-8911-80b235cc14a1)
+![state_pie](https://github.com/user-attachments/assets/8e39fd98-69bc-4f63-bd4a-08f2de5d6b16)
 
 
-![HPI_line](https://github.com/user-attachments/assets/8707e11c-0bff-4537-bf42-e6e610a79dc5)
+![HPI_line](https://github.com/user-attachments/assets/2db73ba0-7bab-4770-8fae-13ca42ac1135)
 
 
-![HPI_bar](https://github.com/user-attachments/assets/c6fce4f2-b294-47d0-937b-588e0776229d)
+![HPI_bar](https://github.com/user-attachments/assets/030c95c0-cc86-4900-afd5-05215e769902)
 
 
-![income_line](https://github.com/user-attachments/assets/c58ad716-90ff-4132-a892-b726c637f723)
+![income_line](https://github.com/user-attachments/assets/6f4e8f8e-33b9-4ef1-b7f9-d584cd6f8754)
 
 
-![income_bar](https://github.com/user-attachments/assets/6b2f0d65-0340-4191-bfad-2936bc2da70b)
+![income_bar](https://github.com/user-attachments/assets/ab9109c3-5831-4188-8989-21034314aec6)
 
 
-![jobs_line](https://github.com/user-attachments/assets/384cff18-34c0-4e2f-9b97-dcc1f6ab253f)
+![jobs_line](https://github.com/user-attachments/assets/5c011494-802d-4429-8d9c-200e9f21a3e6)
 
 
-![jobs_bar](https://github.com/user-attachments/assets/e7daacdf-9bb0-4173-a052-a4423f2e9a22)
-
-
-
+![jobs_bar](https://github.com/user-attachments/assets/9a40745b-9915-452f-87c7-cb174a3bbfef)
 
 ### Resources
 
