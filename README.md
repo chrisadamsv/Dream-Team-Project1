@@ -1,6 +1,6 @@
 # Storm Surge - How Hurricanes Affect Local Economies
  ### Introduction
-
+Hurricanes have long plagued the south-east United States, causing grief and untold damage to both those unfortunate enough to be in their paths and to the country as a whole. But what are some of the figures attached to these disastrous phenomena? According to our research, Florida recieves the majority share of hurricane landfalls at about 27%. Trends in Housing Price Indices (HPI) show an increase the year following a major hurricane and then proceeds to decline in subsequent years; meanwhile per capita income of landfall afflicted counties tends to fluctuate to a far greater degree than the national or even state averages, but following a similar pattern of a rise in the year of a hurricane, then a decrease and increase in the following years. The mean income between county and the nation doesnt seem to follow any distinct pattern. In the year of a hurricane, landfall counties see a lesser increase percentage in jobs but is followed by an increase in the following years far exceeding the national average. While hurricanes are costly and often times disastrous for everyone, our research shows generally positive economic trends for those involved and ultimately, like a fire or other natural disasters, can lead to a stronger community through rebuilding and recovery. 
 
 
  
