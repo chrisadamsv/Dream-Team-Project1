@@ -15,24 +15,28 @@
 
 
 ![state_pie](https://github.com/user-attachments/assets/8e39fd98-69bc-4f63-bd4a-08f2de5d6b16)
+
 According to our research, Florida receives the majority share of hurricane landfalls at about 27%. 
 
 ![HPI_line](https://github.com/user-attachments/assets/2db73ba0-7bab-4770-8fae-13ca42ac1135)
 
 
 ![HPI_bar](https://github.com/user-attachments/assets/030c95c0-cc86-4900-afd5-05215e769902)
+
 Trends in Housing Price Indices (HPI) show an increase the year following a major hurricane and then proceeds to decline in subsequent years; meanwhile per capita income of landfall afflicted counties tends to fluctuate to a far greater degree than the national or even state averages, but following a similar pattern of a rise in the year of a hurricane, then a decrease and increase in the following years.
 
 ![income_line](https://github.com/user-attachments/assets/6f4e8f8e-33b9-4ef1-b7f9-d584cd6f8754)
 
 
 ![income_bar](https://github.com/user-attachments/assets/ab9109c3-5831-4188-8989-21034314aec6)
+
 The mean income between county and the nation does not seem to follow any distinct pattern.
 
 ![jobs_line](https://github.com/user-attachments/assets/5c011494-802d-4429-8d9c-200e9f21a3e6)
 
 
 ![jobs_bar](https://github.com/user-attachments/assets/9a40745b-9915-452f-87c7-cb174a3bbfef)
+
  In the year of a hurricane, landfall counties see a lesser increase percentage in jobs but is followed by an increase in the following years far exceeding the national average.
 
 ### Conclusions
