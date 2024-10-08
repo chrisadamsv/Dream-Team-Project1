@@ -1,9 +1,13 @@
 # Storm Surge - How Hurricanes Affect Local Economies
  ### Introduction
-Hurricanes have long plagued the south-east United States, causing grief and untold damage to both those unfortunate enough to be in their paths and to the country as a whole. But what are some of the figures attached to these disastrous phenomena? 
+   Hurricanes have long plagued the south-east United States, causing grief and untold damage to both those unfortunate enough to be in their paths and to the country as a whole. Due to the affects of climate change these affects are being compounded as rising temperatures cause them to grow stronger and more frequently. But what are some of the figures attached to these disastrous phenomena? How do they actually affect local economies in the United States?
+   
 ### Hypothesis
+   We can expoect to see that housing prices increase after a hurricane compared to the national average. Hurricanes bring a lot of destruction, thus making it more expensive to own a home. We also expect there to be an increase in jobs and possibly income, due to the increase in jobs to help rebuild the area.
+
 
 ### Methods
+   To gather our data, we assembled a dataset containing the Housing Price Index, median income, and jobs count for each county from the years 1980 to 2023. From there, we analyzed the changes for each feild accross a five year period around each instance. We then isolated the counties that have been directly affected by hurricanes using data from the National Hurricane Center. From there, we can see what happens on average when a hurricane strikes an area compared to its state and national averages.
 
 ### Data Analysis
 
@@ -32,10 +36,11 @@ The mean income between county and the nation does not seem to follow any distin
  In the year of a hurricane, landfall counties see a lesser increase percentage in jobs but is followed by an increase in the following years far exceeding the national average.
 
 ### Conclusions
-While hurricanes are costly and often times disastrous for everyone, our research shows generally positive economic trends for those involved and ultimately, like a fire or other natural disasters, can lead to a stronger community through rebuilding and recovery. 
+   While hurricanes are costly and often times disastrous for everyone, our research shows generally positive economic trends for those involved and ultimately, like a fire or other natural disasters, can lead to a stronger community through rebuilding and recovery. 
 
 ### Next Steps
-
+   In the future, we would like to analyze what happens over a longer period of time to meausure any long term affects. We would also like to analyze outside factors better to see if they have any undue influence on these metrics. 
+   
 ### Resources
 
 - Hurricanes by costliness:
